@@ -5,9 +5,8 @@ title: "OpenCLIP Fine-Tuning for FashionGen Retrieval"
 
 ## OpenCLIP Fine-Tuning for Multi-Modal Retrieval on FashionGen
 
-- **Course**: ISYE 6740 (Group 5)
 - **Project**: OpenCLIP Fine-Tuning for Multi-Modal Retrieval on FashionGen
-- **Repo**: https://github.com/Woodygoodenough/clip_finetuning
+- **Repo**: (https://github.com/Woodygoodenough/clip_finetuning)
 - **Paper (PDF)**: [Download]( /assets/papers/openclip_finetuning_fashiongen.pdf )
 
 ### Embedded report
