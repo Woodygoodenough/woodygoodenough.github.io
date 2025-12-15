@@ -27,7 +27,7 @@ Fine-tuned OpenCLIP models for large-scale image–text retrieval on FashionGen.
 
 - **Description:** Fine-tuned multiple OpenCLIP variants (ViT-B/32, ViT-B/16, SigLIP2) on the FashionGen dataset (image–caption pairs), comparing InfoNCE vs. BCE objectives and studying architectural trade-offs, training dynamics, and caption augmentation for improved multimodal retrieval performance.
 - **Project page:** [Details](/projects/openclip-finetuning-fashiongen)
-- **Source code:** [GitHub] (https://github.com/Woodygoodenough/clip_finetuning)
+- **Source code:** [GitHub](https://github.com/Woodygoodenough/clip_finetuning)
 
 ---
 
