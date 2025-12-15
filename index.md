@@ -32,7 +32,7 @@ Fine-tuned OpenCLIP models for large-scale image–text retrieval on FashionGen.
 ---
 
 ## Resume
-- [Download PDF](assets/Di_Wu_Resume.pdf)
+- [Download PDF](assets/resume/Di_Wu_Resume.pdf)
 
 ---
 
