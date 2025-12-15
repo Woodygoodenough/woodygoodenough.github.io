@@ -3,15 +3,14 @@ layout: default
 title: Home
 ---
 
-# Woody Goodenough
+# Di Wu (Woody)
 
 I build data-driven systems that connect raw data, automated pipelines, and interactive analytics.
-My work focuses on analytics engineering, applied machine learning, and system design.
 
 ---
 
 ## Projects
-
+<!--
 ### 📊 Automated Financial Dashboard (Power BI)
 Daily-updated stock market dashboard powered by a serverless Python ETL pipeline and Power BI.
 
@@ -21,21 +20,22 @@ Daily-updated stock market dashboard powered by a serverless Python ETL pipeline
 - **Source code:** [GitHub](https://github.com/woodygoodenough/alpha-vantage-powerbi)
 
 ---
+-->
 
-### 🔍 Multimodal Retrieval (CLIP-based)
-Interactive image–text retrieval system using CLIP-style models and vector search.
+### 🔍 [Deep Learning / Multimodality] Open-Clip Finetuning
+Fine-tuned OpenCLIP models for large-scale image–text retrieval on FashionGen.
 
-- **Demo:** Coming soon
-- **Project page:** Coming soon
-- **Source code:** Coming soon
+- **Description:** Fine-tuned multiple OpenCLIP variants (ViT-B/32, ViT-B/16, SigLIP2) on the FashionGen dataset (image–caption pairs), comparing InfoNCE vs. BCE objectives and studying architectural trade-offs, training dynamics, and caption augmentation for improved multimodal retrieval performance.
+- **Project page:** [Details](/projects/openclip-finetuning-fashiongen)
+- **Source code:** [GitHub] https://github.com/Woodygoodenough/clip_finetuning
 
 ---
 
 ## Resume
-- [Download PDF](assets/Woody_Goodenough_Resume.pdf)
+- [Download PDF](assets/Di_Wu_Resume.pdf)
 
 ---
 
 ## Contact
 - GitHub: https://github.com/woodygoodenough
-- LinkedIn: (add when ready)
+- LinkedIn: www.linkedin.com/in/diwuwoody
