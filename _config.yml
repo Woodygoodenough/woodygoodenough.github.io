@@ -2,3 +2,7 @@ title: Woody Goodenough
 description: Interactive portfolio and project showcase
 theme: minima
 markdown: kramdown
+header_pages:
+  - index.md
+  - projects.md
+  - contact.md
